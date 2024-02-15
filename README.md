@@ -1,4 +1,4 @@
-## **Proposal: Community-Driven CDK Construct Library**
+## **Community-Driven CDK Construct Library**
 
 ### Press Release
 
