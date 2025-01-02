@@ -20,7 +20,7 @@ We welcome contributions from all members of the community. Whether you are a se
 
 **About the Open Construct Foundation**
 
-The Open Construct Foundation, founded in 2019, is a non-profit organization that plays a pivotal role in the AWS CDK ecosystem. In addition to launching the community-driven CDK construct library, the foundation also manages the cdk.dev Slack workspace and organizes the CDK Day conference. These initiatives foster collaboration, knowledge sharing, and the advancement of the CDK community. (https://openconstructfoundation.org/)
+The Open Construct Foundation, founded in 2019, is a non-profit organization that plays a pivotal role in the AWS CDK ecosystem. In addition to launching the community-driven CDK construct library, the foundation also manages the cdk.dev Slack workspace and organizes the CDK Day conference. These initiatives foster collaboration, knowledge sharing, and the advancement of the CDK community. (https://the-ocf.org/)
 
 
 
